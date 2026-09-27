@@ -3,13 +3,16 @@ My self-sufficiency programming project repository
 
 ## List
 
-- harpscript/ipariscript
-- mystd_noksek
-- myalgorithm
+- [harpscript](https://github.com/Noksek2/harp_script)
+- [ipariscript](https://github.com/Noksek2/ipari-script)
+- [mystd_noksek](https://github.com/Noksek2/mystd_noksek)
+- [myalgorithm](https://github.com/Noksek2/myalgorithm)
+- [myNLP](https://github.com/Noksek2/myNLP)
+- [myANN](https://github.com/Noksek2/MyNeuralNetwork)
   
 Partially 
 - WinPaint2d (private)
-- ImageCompressor
+- [ImageCompressor](https://github.com/Noksek2/ImageCompressor)
 
 
 
@@ -37,6 +40,7 @@ In contrast to the Nok project, there is the `ClawnCode Project`
 
 The `ClawnCode Project`  exhibits a large amount of AI code generation and strong agent dependency.
 
+https://github.com/Noksek2/ClawnCodeRepo
 
 ## Why?
 By minimizing external library dependencies, The goal is to build my own system.
