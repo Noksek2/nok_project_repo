@@ -15,7 +15,6 @@ Partially
 - [ImageCompressor](https://github.com/Noksek2/ImageCompressor)
 
 
-
 ## Policy in Nok Project
 1. AI Agent (Claude Code, Codex, Github Copilot, etc) Forbidden.
   
@@ -47,3 +46,32 @@ By minimizing external library dependencies, The goal is to build my own system.
 
 ## Sad Point
 who cares 😇
+
+
+## maybe  Someday
+
+prefer
+my easy way
+from scratch, but using basic 
+all in one
+
+want to reject
+complexity
+imposition of 
+forcing trends
+anti-CE mindset
+
+
+
+### simpleng project
+i hate complex english
+esperanto socks
+use simpleng
+it have simple parser
+
+i do not know about llm
+
+
+### hi nokchan 
+<img src="TTL2.png">
+oops, well she be sleep now
