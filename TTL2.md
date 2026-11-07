@@ -19,7 +19,7 @@ esperanto socks
 use simpleng
 it have simple parser
 
-i do not know about llm
+llm idnt care
 
 
 ### hi nokchan 
