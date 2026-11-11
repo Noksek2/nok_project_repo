@@ -1,6 +1,8 @@
 # Nok Project Repo
 My self-sufficiency programming project repository
 
+
+
 ## List
 
 - [harpscript](https://github.com/Noksek2/harp_script)
@@ -14,6 +16,17 @@ Partially
 - WinPaint2d (private)
 - [ImageCompressor](https://github.com/Noksek2/ImageCompressor)
 
+
+## Report?
+
+| name | difficulty(n/5) | period | lang/st | ongoing? | 
+| --- | --- | --- |  --- | --- |
+| harpscript | 3.5/5 | long (>6 month) | C++ | yes |
+| mystd_noksek(except myallocator) | 1.5/5 | long (>6 month) | C | yes |
+| mystd_noksek - myallocator | 4/5 | short (<2 month) | C | pause |
+| WinPaint2d | 4/5 | C++ | long (>6 month) | wait |
+| ipariscript | 2.5/5 | C++ | short (<3 month) | stop |
+| etc | ? | ? | ? | stop or pause |
 
 ## Policy in Nok Project
 1. AI Agent (Claude Code, Codex, Github Copilot, etc) Forbidden.
@@ -33,45 +46,24 @@ Even in this case, Cannot directly use AI-generated code, and the source must be
 
 Not necessarily released as open source, especially in github.
 
-## Clawn Code haha
+## Clawn Code
 
 In contrast to the Nok project, there is the `ClawnCode Project`
 
-The `ClawnCode Project`  exhibits a large amount of AI code generation and strong agent dependency.
+`ClawnCode Project`  exhibits AI code generation and strong agent dependency.
 
 https://github.com/Noksek2/ClawnCodeRepo
 
 ## Why?
 By minimizing external library dependencies, The goal is to build my own system.
 
+so ClawnCode is not my pure job.
+
 ## Sad Point
 who cares 😇
 
 
-## maybe  Someday
-
-prefer
-my easy way
-from scratch, but using basic 
-all in one
-
-want to reject
-complexity
-imposition of 
-forcing trends
-anti-CE mindset
-
-
-
-### simpleng project
-i hate complex english
-esperanto socks
-use simpleng
-it have simple parser
-
-i do not know about llm
-
 
 ### hi nokchan 
-<img src="TTL2.png">
-oops, well she be sleep now
+<img src="TTL2.png" width=400>
+oops,, she be sleep now
